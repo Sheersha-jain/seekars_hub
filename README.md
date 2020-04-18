@@ -1,5 +1,5 @@
-# seekars_hub
-A Private Cloud named "Seekars_hub"
+# seekers_hub
+A Private Cloud named "Seekers_hub"
 
 # Types of services
 This cloud provides:
